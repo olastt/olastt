@@ -7,8 +7,6 @@
 <br> В моих планах начать автоматизацию на базовом уровне </br>
   🏆 Это моя награда себе за освоение гитхаба
   
- <br> 
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=430&lines=%D0%BD%D0%B5%2C+%D0%BD%D1%83+%D1%8D%D1%82%D0%BE+%D1%82%D0%BE%D1%87%D0%BD%D0%BE+BUGGGG)](https://git.io/typing-svg)</br>
 
 <div align=center><h2>Мои нвыки</h2></div>
