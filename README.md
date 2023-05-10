@@ -11,7 +11,7 @@
 [<img alt='Telegram' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png'>](https://t.me/olasttt)
 
 
-Language and Tools
+<div align=center><h2>Language and Tools</h2></div>Language and Tools
 
 
 
@@ -26,15 +26,6 @@ Language and Tools
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576546f6f6c732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d323637346632](https://user-images.githubusercontent.com/118808502/229304468-610db962-c5ec-4ec4-b1fd-174e330efa10.svg)
 
   
-  
-  
-  
-  
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=430&lines=%D0%BD%D0%B5%2C+%D0%BD%D1%83+%D1%8D%D1%82%D0%BE+%D1%82%D0%BE%D1%87%D0%BD%D0%BE+BUGGGG)](https://git.io/typing-svg)</br>
-
-
-
 
 <div align=center><h2>Что я планирую изучить</h2></div>
  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
